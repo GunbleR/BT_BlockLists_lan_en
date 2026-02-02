@@ -1,6 +1,11 @@
 # Fork
 fork of original list without banning lan ip's
-editing/testing atm
+
+manually deleted lan ip's and uploaded as manual_nolan_blocklist.gz
+
+will edit automation later
+
+
 
 # Notice
 ## 20241022
